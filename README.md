@@ -9,4 +9,5 @@ Simple perceptron using  numpy and matpotlib
 4) Last step is press the button "Calcular" and you will se how the perceptron start to divided the two clases.
 ![Screenshot](p4.png)
 
-
+#Note
+You can modify the activation function, in this case is Sigmoid, but you can create your own version function, also you can modify the number of Epochs.
